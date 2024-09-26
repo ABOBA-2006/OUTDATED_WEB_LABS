@@ -109,33 +109,3 @@ div{
 	background: lightsalmon;
 	border-width: 0px 1px 1px 1px;
 }
-
-
-@media (max-width: 1300px){
-	.block-text{
-		width: 20vw;
-		font-size: 1.3vw;
-	}
-
-	h1{
-		font-size: 2vw;
-	}
-
-	.header{
-		gap: 35vw;
-	}
-}
-
-@media (max-width: 900px){
-	h1{
-		font-size: 2.3vw;
-	}
-
-	.content-left__wide-block__menu li{
-		font-size: 3.5vw;
-	}
-
-	.content-left__footer__text{
-		margin-left: 50vw;
-	}
-}
